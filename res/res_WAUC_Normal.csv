@@ -1,0 +1,13 @@
+,cifar-100-long-tail-1,cifar-100-long-tail-2,cifar-100-long-tail-3,cifar-10-long-tail-1,cifar-10-long-tail-2,cifar-10-long-tail-3
+BCE,,,,,,
+ExAUC,,,,,,
+SqAUC,,,,,,
+NWAUC,,,,,,
+PAUC-exp,,,,,,
+PAUC-poly,,,,,,
+PAUCI,,,,,,
+CS-hinge,,,,,,
+AdaCOS,,,,,,
+ECL,,,,,,
+WAUC-Gau,,,,,,
+WAUC-Log,,,,,,
