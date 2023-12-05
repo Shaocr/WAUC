@@ -15,9 +15,6 @@ An implement of the NeurIPS 2023 paper: [**Weighted ROC Curve in Cost Space:Exte
 Download [cifar-10-long-tail]([https://drive.google.com/uc?export=download&id=1TclrpQOF_ullUP99wk_gjGN8pKvtErG8](https://drive.google.com/drive/folders/191lqLKQFksMci_Dm1EC-B7M7OfHSO8Fk?usp=sharing)), [cifar-100-long-tail]([https://www.pkuml.org/resources/pku-vehicleid.html](https://drive.google.com/drive/folders/191lqLKQFksMci_Dm1EC-B7M7OfHSO8Fk?usp=sharing)), and [tiny-imagenet-200]([https://github.com/visipedia/inat_comp/tree/master/2018#Data](https://drive.google.com/drive/folders/191lqLKQFksMci_Dm1EC-B7M7OfHSO8Fk?usp=sharing)). Unzip these files and place then in `./data/[dataset]/`.
 
 ## Training & Testing
-
-Using the pretrained models  in `./pretrained_models_back`.
-
 Run the following command for training & validation
 
 ```shell
