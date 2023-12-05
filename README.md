@@ -1,4 +1,4 @@
-# PAUCI
+# WAUC
 An implement of the NeurIPS 2023 paper: [**Weighted ROC Curve in Cost Space:Extending AUC to Cost-Sensitive Learning**].
 
 ## Environments
